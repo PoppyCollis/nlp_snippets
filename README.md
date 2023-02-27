@@ -10,6 +10,7 @@ Investigation of NLP methods for distinguishing positive and negative reviews wr
 - word frequency dictionaries
 
 **Preprocessing text**
+
 <em>Part 1</em>
 - sentence segmentation
 - word tokenization
