@@ -1,9 +1,6 @@
 # nlp_snippets
 Collection of useful natural language processing code snippets
 
-**Sentiment Classification**
-Investigation of NLP methods for distinguishing positive and negative reviews written about movies. Comparison of a word list classifier approach to a Naive Bayes classifier.
-
 **NLP basics**
 - opening files
 - getting vocabulary
@@ -21,3 +18,8 @@ Investigation of NLP methods for distinguishing positive and negative reviews wr
 - case normalisation
 - stemming
 - punctuation and stopword removal
+
+**Sentiment Classification**
+
+Report on investigation of NLP methods for distinguishing positive and negative reviews written about movies. Comparison of a word list classifier approach to a Naive Bayes classifier.
+
