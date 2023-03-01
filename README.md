@@ -1,5 +1,5 @@
 # nlp_snippets
-Collection of useful natural language processing code snippets. Use of NLTK library and Spacy.
+Collection of useful natural language processing code snippets. Use of NLTK library and spaCy.
 
 **NLP basics**
 - opening files
