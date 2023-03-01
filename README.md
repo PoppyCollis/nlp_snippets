@@ -35,3 +35,5 @@ Involves finding relevant documents to a query expressed in terms of keywords an
 
 5. Named entity recognition
 Notebook introduces the spaCy library (https://spacy.io/) which provides a number of very fast, state-of-the-art accuracy tools for carrying out NLP tasks including part-of-speech tagging, dependency parsing and named entity recognition.
+
+Notebook questions provided by the University of Sussex, Eng & Inf. Dept
